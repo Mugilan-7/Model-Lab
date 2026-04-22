@@ -1,0 +1,86 @@
+# Compiled class files
+*.class
+*.jar
+*.war
+*.ear
+
+# Build directories
+target/
+build/
+dist/
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.iml
+*.iws
+*.ipr
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Tomcat directories (large, can be reproduced)
+tomcat/
+apache-tomcat-*/
+conf/Catalina/
+work/
+temp/
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+*.sqlitedb
+*.lck
+
+# Log files
+logs/
+*.log
+
+# OS-specific files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+
+# IDE run configurations
+.vscode/settings.json
+.vscode/launch.json
+
+# Gradle and Maven
+.gradle/
+.maven/
+
+# Node modules (if using Node.js tools)
+node_modules/
+npm-debug.log
+
+# Java-specific
+*.classpath
+*.project
+.settings/
+bin/
+out/
+
+# IntelliJ
+.idea/
+*.iml
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# NetBeans
+nbproject/
+
+# Misc
+*.bak
+*.tmp
+*.temp
+.env
+.env.local
